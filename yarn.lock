@@ -906,10 +906,10 @@ electron-log@^4.4.8:
   resolved "https://registry.yarnpkg.com/electron-log/-/electron-log-4.4.8.tgz#fcb9f714dbcaefb6ac7984c4683912c74730248a"
   integrity sha512-QQ4GvrXO+HkgqqEOYbi+DHL7hj5JM+nHi/j+qrN9zeeXVKy8ZABgbu4CnG+BBqDZ2+tbeq9tUC4DZfIWFU5AZA==
 
-electron-progressbar@^2.0.1:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/electron-progressbar/-/electron-progressbar-2.1.0.tgz#12cc2a652f9b12a408b7a1e623fb4eb62c9fc645"
-  integrity sha512-F2/xVYxmcbmvqXtlD7d1xbq9320ILutVZf0SDpvb55SDreBiCJTH5ctz7/0FD85cW4mxITNh9u8CStZgcEA3Ag==
+electron-progressbar@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/electron-progressbar/-/electron-progressbar-2.2.1.tgz#15c1c22987fb7dd17dfbd6739d2b38157eb83ee5"
+  integrity sha512-LQ9bxM3Tf5PG/1QngY8ywvht7IKvQ8tEIra8uh3RkLASqN/GYvr4r0uU9qz38r0Zn72UcouYzumKDfLwoI/rsw==
   dependencies:
     extend "^3.0.1"
 
